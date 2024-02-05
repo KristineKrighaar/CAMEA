@@ -1,7 +1,15 @@
 # All file and folder types that should not be uploaded to Github
-
 *.dat
-*2024*
-*.c
 *.out
+*.sim
+*.DS_store
+*.stdout
+*.c
+*.stderr
+*.png
 *.out.dSYM
+
+# Folder ques that should not be uploaded to github
+Cluster*
+*test*
+*_2024*
