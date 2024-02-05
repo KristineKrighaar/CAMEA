@@ -1,0 +1,7 @@
+# All file and folder types that should not be uploaded to Github
+
+*.dat
+*2024*
+*.c
+*.out
+*.out.dSYM
